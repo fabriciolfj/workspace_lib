@@ -1,3 +1,3 @@
-module github.com/fabriciolfj/workspace_lib/v2
+module github.com/fabriciolfj/workspace_lib
 
 go 1.22.3
